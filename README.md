@@ -16,19 +16,13 @@ O projeto foi desenvolvido do dia 11/09 ao dia 18/09, com aulas e desafios lanç
 
 ## Rodando o projeto
 
-Para rodar o servidor
+Para rodar o projeto
 
 ```bash
+  npm install
   npm run dev
 ```
 
-Para rodar o projeto web
-
-```bash
-  npm run dev
-```
-
-
-## Projeto Mobile
+## Projeto Web e Servidor do Banco de dados
 
  - [mobile](https://github.com/Yuriferr/Rocketseat-Nlw-mobile)
