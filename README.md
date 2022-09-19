@@ -10,7 +10,7 @@ O projeto foi desenvolvido do dia 11/09 ao dia 18/09, com aulas e desafios lanç
 ## Demonstração
 
 <div align="center">
-  
+  ![Design sem nome](https://user-images.githubusercontent.com/104935046/191124004-8943bf19-13b8-4dcf-943d-423bd3a1f599.png)
 </div>
 
 
