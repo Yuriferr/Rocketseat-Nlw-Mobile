@@ -20,7 +20,7 @@ Para rodar o projeto
 
 ```bash
   npm install
-  npm run dev
+  npx expo start
 ```
 
 ## Projeto Web e Servidor do Banco de dados
