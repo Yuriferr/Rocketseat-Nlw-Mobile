@@ -10,8 +10,7 @@ O projeto foi desenvolvido do dia 11/09 ao dia 18/09, com aulas e desafios lanç
 ## Demonstração
 
 <div align="center">
-  <img src="https://live.staticflickr.com/65535/52370119754_ddfb710cc4_z.jpg"/> 
-  <img src="https://live.staticflickr.com/65535/52368869417_8e0070b190_z.jpg"/> 
+  
 </div>
 
 
