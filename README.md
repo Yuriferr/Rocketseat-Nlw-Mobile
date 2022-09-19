@@ -25,4 +25,4 @@ Para rodar o projeto
 
 ## Projeto Web e Servidor do Banco de dados
 
- - [web e server](https://github.com/Yuriferr/Rocketseat-Nlw-mobile)
+ - [web e server](https://github.com/Yuriferr/Rocketseat-Nlw)
